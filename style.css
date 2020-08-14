@@ -1,0 +1,22 @@
+html,body{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	overflow: hidden;
+	background: #0DC2FF;
+}
+
+.back{
+	width: 10%;
+	height: 10vh;
+	background: red;
+}
+
+.razdelic{
+	width: 10%
+	height 10vh
+	border: 1px solid black;
+	display: flex;
+}
